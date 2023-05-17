@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/clarkio/vscode-extension-template/compare/v1.0.0...v1.0.1) (2023-05-17)
+
+
+### Bug Fixes
+
+* remove deprecated action for recommended ([86b2750](https://github.com/clarkio/vscode-extension-template/commit/86b275015bdfe6052975e22898a6c29636eb7576))
+
 # 1.0.0 (2023-05-14)
 
 
