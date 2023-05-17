@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/clarkio/vscode-extension-template/compare/v1.0.1...v1.0.2) (2023-05-17)
+
+
+### Bug Fixes
+
+* change to string for tarballDir ([3d68225](https://github.com/clarkio/vscode-extension-template/commit/3d682256f7c362cfc64a4894e61506323411d2a9))
+
 ## [1.0.1](https://github.com/clarkio/vscode-extension-template/compare/v1.0.0...v1.0.1) (2023-05-17)
 
 

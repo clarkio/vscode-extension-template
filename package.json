@@ -2,7 +2,7 @@
   "name": "vscode-new-extension-template",
   "displayName": "Clarkio's VS Code Extension Template",
   "description": "An extension template used for jumpstarting development of VS Code extensions",
-  "version": "0.0.0-development",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.78.0"
   },
